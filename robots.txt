@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dennisvanfaassen.github.io/FoodBlog/sitemap.xml
